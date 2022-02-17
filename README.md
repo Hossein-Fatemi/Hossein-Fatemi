@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hossein-Fatemi
+- 👋 Hi, I’m Hossein Fatemi
 - 👀 I’m interested in R&D for different technology based services
 - 🌱 I’m currently a MBA Student at Sharif University of Technology.
 - 💞️ I’m looking to collaborate on data analytics and BI
